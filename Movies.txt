@@ -1,0 +1,62 @@
+Title: Get Out
+Genre: Horror
+Director Name: James Wan
+Director Name: Pete Docter
+Studio: Universal
+Year: 2006
+
+Title: A Quiet Place
+Genre: Horror
+Director Name: Jordan Peele
+Director Name: Ronnie del Carmen
+Studio: Universal
+Year: 2012
+
+Title: The Shawshank Redemption
+Genre: Drama
+Director Name: Ronnie del Carmen
+Director Name: Greta Gerwig
+Studio: Warner Bros
+Year: 2022
+
+Title: Forrest Gump
+Genre: Drama
+Director Name: Ronnie del Carmen
+Studio: Disney
+Year: 2011
+
+Title: John Wick
+Genre: Action
+Director Name: Bong Joon-ho
+Studio: Warner Bros
+Year: 2019
+
+Title: Mad Max: Fury Road
+Genre: Action
+Director Name: James Wan
+Studio: Universal
+Year: 2020
+
+Title: Inside Out
+Genre: Animation
+Director Name: Quentin Tarantino
+Studio: Disney
+Year: 2014
+
+Title: Coco
+Genre: Animation
+Director Name: Jordan Peele
+Studio: Disney
+Year: 2010
+
+Title: Superbad
+Genre: Comedy
+Director Name: Jordan Peele
+Studio: Pixar
+Year: 2013
+
+Title: The Hangover
+Genre: Comedy
+Director Name: Steven Spielberg
+Studio: Pixar
+Year: 2010
