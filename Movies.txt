@@ -1,62 +1,69 @@
-Title: Get Out
-Genre: Horror
-Director Name: James Wan
-Director Name: Pete Docter
-Studio: Universal
-Year: 2006
-
-Title: A Quiet Place
-Genre: Horror
-Director Name: Jordan Peele
-Director Name: Ronnie del Carmen
-Studio: Universal
+Title: The Avengers
+Genre: Action
+Director Name: Joss Whedon
+Studio: Marvel Studios
 Year: 2012
 
-Title: The Shawshank Redemption
-Genre: Drama
-Director Name: Ronnie del Carmen
-Director Name: Greta Gerwig
-Studio: Warner Bros
+Title: Top Gun: Maverick
+Genre: Action
+Director Name: Joseph Kosinski
+Studio: Paramount Pictures
 Year: 2022
-
-Title: Forrest Gump
-Genre: Drama
-Director Name: Ronnie del Carmen
-Studio: Disney
-Year: 2011
 
 Title: John Wick
 Genre: Action
-Director Name: Bong Joon-ho
-Studio: Warner Bros
-Year: 2019
-
-Title: Mad Max: Fury Road
-Genre: Action
-Director Name: James Wan
-Studio: Universal
-Year: 2020
-
-Title: Inside Out
-Genre: Animation
-Director Name: Quentin Tarantino
-Studio: Disney
+Director Name: Chad Stahelski
+Studio: Summit Entertainment
 Year: 2014
 
-Title: Coco
-Genre: Animation
-Director Name: Jordan Peele
-Studio: Disney
-Year: 2010
+Title: Oppenheimer
+Genre: Drama
+Director Name: Christopher Nolan
+Studio: Universal Pictures
+Year: 2023
 
-Title: Superbad
-Genre: Comedy
-Director Name: Jordan Peele
-Studio: Pixar
+Title: Parasite
+Genre: Drama
+Director Name: Bong Joon Ho
+Studio: CJ Entertainment
+Year: 2019
+
+Title: La La Land
+Genre: Drama
+Director Name: Damien Chazelle
+Studio: Summit Entertainment
+Year: 2016
+
+Title: Frozen
+Genre: Animation
+Director Name: Chris Buck
+Director Name: Jennifer Lee
+Studio: Walt Disney Animation Studios
 Year: 2013
 
-Title: The Hangover
+Title: Zootopia
+Genre: Animation
+Director Name: Byron Howard
+Director Name: Rich Moore
+Studio: Walt Disney Animation Studios
+Year: 2016
+
+Title: Spider-Man: Into the Spider-Verse
+Genre: Animation
+Director Name: Bob Persichetti
+Director Name: Peter Ramsey
+Director Name: Rodney Rothman
+Studio: Sony Pictures Animation
+Year: 2018
+
+Title: Ted
 Genre: Comedy
-Director Name: Steven Spielberg
-Studio: Pixar
-Year: 2010
+Director Name: Seth MacFarlane
+Studio: Universal Pictures
+Year: 2012
+
+Title: Jumanji: Welcome to the Jungle
+Genre: Comedy
+Director Name: Jake Kasdan
+Studio: Sony Pictures
+Year: 2017
